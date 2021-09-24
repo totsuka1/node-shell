@@ -1,0 +1,25 @@
+{
+  "name": "node_shell_request",
+  "version": "1.0.0",
+  "description": "Test of npm request download",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totsuka1/node-shell.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "Takumi Otsuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/totsuka1/node-shell/issues"
+  },
+  "homepage": "https://github.com/totsuka1/node-shell#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
